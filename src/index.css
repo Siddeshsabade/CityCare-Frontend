@@ -1,0 +1,4 @@
+@import "tailwindcss";
+button {
+  border-radius: var(--tw-border-radius, 0.5rem);
+}
